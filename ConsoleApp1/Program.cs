@@ -11,7 +11,7 @@ namespace ConsoleApp1
         static void Main(string[] args)
         {
             Console.WriteLine("Git installed");
-            Console.WriteLine("v2");
+            //Console.WriteLine("v2");
             Console.ReadLine();
         }
     }
